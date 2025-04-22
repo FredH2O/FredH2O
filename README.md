@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frederico @FredH2O
 - 👀 I’m interested in Frontend!
-- 🌱 I’m currently learning JavaScript/React/TailwindCSS/NextJS/Vite
+- 🌱 I’m currently learning React/TypeScript
 - 💞️ I’m looking to collaborate anywhere ...
 - 📫 How to reach me: LinkedIn or GitHub!
 - 😄 Pronouns: Fred?!...

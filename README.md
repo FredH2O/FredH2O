@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React/TypeScript
 - 💞️ I’m looking to collaborate anywhere ...
 - 📫 How to reach me: LinkedIn or GitHub!
-- 😄 Pronouns: Fred?!...
+- 😄 Nickname: Erick!
 
 <!---
 FredH2O/FredH2O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

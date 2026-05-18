@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frederico @FredH2O
 - 👀 I’m interested in Frontend!
-- 🌱 I’m currently learning React/TypeScript/WordPress/PHP
+- 🌱 I’m currently learning React/WordPress/PHP
 - 💞️ I’m looking to collaborate anywhere ...
 - 📫 How to reach me: LinkedIn or GitHub!
 - 😄 Nickname: Erick!

@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Frederico @FredH2O
-- 👀 I’m interested in Web Dev!
-- 🌱 I’m currently learning React + WordPress (Headless)
-- 📫 How to reach me: LinkedIn or GitHub!
-- 😄 Nickname: Erick!
+### Hi, I'm Erick (Frederico) 👋
 
-<!---
-FredH2O/FredH2O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Self-taught web developer based in Dublin, focused on **React, WordPress, and PHP** — actively looking for junior developer roles.
+
+- 🔭 Currently building with **React, Tailwind CSS, and WordPress/PHP**, with some Next.js and Framer Motion in the mix
+- 🌱 Sharpening my JS/React fundamentals and exploring headless WordPress
+- 💼 Volunteer Web Developer/Content Editor on two live production sites (HHT Ireland, Greenhouse Culture) via Dublin City Council
+- 🎯 Open to junior developer roles at digital agencies
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/fred-huertas) or check out my work below
+
+---
+
+**Tech stack:** React · Tailwind CSS · WordPress · PHP · Next.js · Framer Motion · Vite

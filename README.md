@@ -1,12 +1,12 @@
-### Hi, I'm Erick (Frederico) 👋
+### Hey, I'm fred
 
-Self-taught web developer based in Dublin, focused on **React, WordPress, and PHP** — actively looking for junior developer roles.
+self-taught dev in Dublin who broke React and WordPress out of their separate corners and made them work together. Actively hunting for a junior developer role.
 
-- 🔭 Currently building with **React, Tailwind CSS, and WordPress/PHP**, with some Next.js and Framer Motion in the mix
-- 🌱 Sharpening my JS/React fundamentals and exploring headless WordPress
-- 💼 Volunteer Web Developer/Content Editor on two live production sites (HHT Ireland, Greenhouse Culture) via Dublin City Council
-- 🎯 Open to junior developer roles at digital agencies
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/fred-huertas) or check out my work below
+- 🔭 Building w/ **React, Tailwind CSS, and WordPress/PHP**, throwing in Next.js and Framer Motion when things need extra flair
+- 🌱 Leveling up my JS/React fundamentals and going deep on headless WordPress
+- 💼 Volunteer web dev/Content Editor on two live sites (HHT Ireland, Greenhouse Culture) via Dublin City volunteer centre, real users, real bugs, zero undo button
+- 🎯 Looking for junior dev roles at digital agencies who won't flinch at a WordPress/React hybrid
+- 📫 Find me on [LinkedIn](https://linkedin.com/in/fred-huertas) or scroll down for the receipts
 
 ---
 
